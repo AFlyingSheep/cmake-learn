@@ -1,0 +1,6 @@
+/home/kerbal/cmake_learn/cmake05/build/CMakeFiles/rebuild_cache.dir
+/home/kerbal/cmake_learn/cmake05/build/CMakeFiles/edit_cache.dir
+/home/kerbal/cmake_learn/cmake05/build/bin/CMakeFiles/rebuild_cache.dir
+/home/kerbal/cmake_learn/cmake05/build/bin/CMakeFiles/edit_cache.dir
+/home/kerbal/cmake_learn/cmake05/build/bin/CMakeFiles/hello_static.dir
+/home/kerbal/cmake_learn/cmake05/build/bin/CMakeFiles/hello.dir

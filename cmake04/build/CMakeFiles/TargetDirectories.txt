@@ -1,0 +1,13 @@
+/home/kerbal/cmake_learn/cmake04/build/CMakeFiles/install/strip.dir
+/home/kerbal/cmake_learn/cmake04/build/CMakeFiles/install.dir
+/home/kerbal/cmake_learn/cmake04/build/CMakeFiles/install/local.dir
+/home/kerbal/cmake_learn/cmake04/build/CMakeFiles/list_install_components.dir
+/home/kerbal/cmake_learn/cmake04/build/CMakeFiles/edit_cache.dir
+/home/kerbal/cmake_learn/cmake04/build/CMakeFiles/rebuild_cache.dir
+/home/kerbal/cmake_learn/cmake04/build/bin/CMakeFiles/install/strip.dir
+/home/kerbal/cmake_learn/cmake04/build/bin/CMakeFiles/edit_cache.dir
+/home/kerbal/cmake_learn/cmake04/build/bin/CMakeFiles/hello.dir
+/home/kerbal/cmake_learn/cmake04/build/bin/CMakeFiles/rebuild_cache.dir
+/home/kerbal/cmake_learn/cmake04/build/bin/CMakeFiles/list_install_components.dir
+/home/kerbal/cmake_learn/cmake04/build/bin/CMakeFiles/install/local.dir
+/home/kerbal/cmake_learn/cmake04/build/bin/CMakeFiles/install.dir

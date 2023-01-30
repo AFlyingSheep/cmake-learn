@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kerbal/cmake_learn/cmake05/lib/hello.cpp
+hello.h
+/home/kerbal/cmake_learn/cmake05/lib/hello.h
+iostream
+-
+
+/home/kerbal/cmake_learn/cmake05/lib/hello.h
+

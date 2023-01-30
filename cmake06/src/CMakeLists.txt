@@ -1,0 +1,11 @@
+INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR}/lib)
+LINK_DIRECTORIES(${PROJECT_SOURCE_DIR}/lib)
+# INCLUDE_DIRECTORIES(/home/kerbal/cmake_learn/cmake06/include)
+
+# MESSAGE(STATUS "This is SOURCE dir in src" ${PROJECT_SOURCE_DIR})
+
+ADD_EXECUTABLE(hello main.cpp)
+
+# MESSAGE(STATUS "This is lib dir: " ${PROJECT_SOURCE_DIR}/lib)
+
+TARGET_LINK_LIBRARIES(hello libhello.a)

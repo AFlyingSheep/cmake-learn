@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/hello.dir/main.o  -o hello  -L/home/kerbal/cmake_learn/cmake06/lib -Wl,-rpath,/home/kerbal/cmake_learn/cmake06/lib -Wl,-Bstatic -lhello -Wl,-Bdynamic 
